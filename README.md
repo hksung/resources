@@ -1,5 +1,5 @@
 # The long and winding road to understand programming language
-This page includes open-source resources to understand programming LANGUAGE better (relates to machine learning, NLP, and math), which have been helpful for my study (which means that I went through a lot of trial and error between these lists!). Because my first language is Korean, some resources are Korean (I marked them **[Korean]**). Other resources are in **English**. The list will be updated regularly.
+This page includes open-source resources to understand programming LANGUAGE better (relates to machine learning, NLP, and math), which have been helpful for my study (which means that I went through a lot of trial and error between these lists!). Because my first language is **Korean**, some resources are Korean (I marked them **[Korean]**). Others are in **English**. The list will be updated regularly.
 
 1. Introduction
 
