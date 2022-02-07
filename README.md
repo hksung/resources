@@ -11,5 +11,5 @@ This page includes open-source resources to understand programming LANGUAGE bett
 * [공돌이의 수학노트](https://angeloyeo.github.io) [Korean]
 
 3. NLP
-* [자연어처리입문 YouTube 강의_(김기영님)](https://www.youtube.com/channel/UCpWrFUlwUGZSHVlOT1eD-Wg/featured) + [GitHub](https://github.com/kiyoungkim1/ReadyToUseAI): (2-3일) | Word2Vec, Doc2Vec, Transformer, BERT등 개념 이해 [Korean]
+* [자연어처리입문 YouTube 강의_(김기영님)](https://www.youtube.com/channel/UCpWrFUlwUGZSHVlOT1eD-Wg/featured) + [GitHub](https://github.com/kiyoungkim1/ReadyToUseAI): Word2Vec, Doc2Vec, Transformer, BERT 등 개념 이해 [Korean]
 * [Korean Language Understanding Evaluation (Kyunghyun Cho)](https://www.youtube.com/watch?v=75lc_96DiKU)
