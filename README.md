@@ -1,5 +1,5 @@
-# NLP for an Applied Linguist
-This page describes my study path to encompassing both NLP and applied linguistics in the second language acquistion field.
+# NLP for a student in linguistics
+This page includes open source resources to learn machine learning.
 
 1. 입문
 * [자연어처리입문 YouTube 강의_(김기영님)](https://www.youtube.com/channel/UCpWrFUlwUGZSHVlOT1eD-Wg/featured) + [GitHub](https://github.com/kiyoungkim1/ReadyToUseAI): (2-3일) | Word2Vec, Doc2Vec, Transformer, BERT등 개념 이해
