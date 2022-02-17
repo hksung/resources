@@ -1,6 +1,6 @@
 ### The long and winding road to collaborate with computer
 
-Computer is a powerful tool. It can process information with incredible speed and accuracy. This page includes resources(mostly open-source, but sometimes book) related to machine learning, NLP, and math, which helped me understand computer and its LANGUAGE (i.e., programming language) a bit better. I went through a lot of trial and error between these lists, but the things I listed here have been all helpful to me! Because my first language is **Korean**, some resources are Korean (I marked them **[Korean]**). Others are in **English**. The list will be updated regularly.
+Computer is a powerful tool. It can process information with incredible speed and accuracy. This page includes resources (mostly open-source, but sometimes book) related to machine learning, NLP, and math, which helped me understand computer and its LANGUAGE (i.e., programming language) a bit better. I went through a lot of trial and error between these lists, but the things I listed here have been all helpful to me! Because my first language is **Korean**, some resources are Korean (I marked them **[Korean]**). Others are in **English**. The list will be updated regularly.
 
 -------------------
 - Introduction
