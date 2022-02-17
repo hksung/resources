@@ -16,4 +16,4 @@ Computer is a powerful tool. It can process information with incredible speed an
 * [Korean Language Understanding Evaluation (Kyunghyun Cho)](https://www.youtube.com/watch?v=75lc_96DiKU)
 
 4. Data Structure / Algorithms
-* [Algorithms Unlocked_(Cormen, T.H.)](https://mitpress.mit.edu/books/algorithms-unlocked)
+* [Algorithms Unlocked_(Cormen, T.H.)](https://mitpress.mit.edu/books/algorithms-unlocked) [Book]
