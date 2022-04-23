@@ -17,3 +17,6 @@ Computer is a powerful tool. It can process information with incredible speed an
 
 - Data Structure / Algorithms
   * [Algorithms Unlocked_(Cormen, T.H.)](https://mitpress.mit.edu/books/algorithms-unlocked) [Book]
+
+- Programming Languages
+  * [Short intro to Lambda Calculus; Computerphile](https://www.youtube.com/watch?v=eis11j_iGMs)
