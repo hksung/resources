@@ -1,6 +1,6 @@
 ### The long and winding road to collaborate with computer
 
-Computer is a powerful tool. It can process information with incredible speed and accuracy. This page includes resources (mostly open-source, but sometimes book) related to machine learning, NLP, and math, which helped me understand computer and its LANGUAGE (i.e., programming language) a bit better. I went through a lot of trial and error between these lists, but the things I listed here have been all helpful to me! Because my first language is **Korean**, some resources are Korean (I marked them **[Korean]**). Others are in **English**. The list will be updated regularly.
+Computer is a powerful tool. It can process information with incredible speed and accuracy. This page includes resources (mostly open-source, but sometimes not) related to machine learning, NLP, and math, which helped me understand computer and its LANGUAGE (i.e., programming language) a bit better. I went through a lot of trial and error between these lists, but the things I listed here have been all helpful to me! Because my first language is **Korean**, some resources are Korean (I marked them **[Korean]**). Others are in **English**. The list will be updated regularly.
 
 -------------------
 - Introduction
@@ -19,4 +19,5 @@ Computer is a powerful tool. It can process information with incredible speed an
   * [Algorithms Unlocked_(Cormen, T.H.)](https://mitpress.mit.edu/books/algorithms-unlocked) [Book]
 
 - Programming Languages
-  * [Short intro to Lambda Calculus; Computerphile](https://www.youtube.com/watch?v=eis11j_iGMs)
+  * [Short intro to Lambda Calculus; Computerphile](https://www.youtube.com/watch?v=eis11j_iGMs) [YouTube Clip: 10 mins]
+  * [Concepts in Programming Languages](https://www.cambridge.org/core/books/concepts-in-programming-languages/1C05841AB47B49D12C7FC48D1022F11E) [Book]
