@@ -19,5 +19,5 @@ Computer is a powerful tool. It can process information with incredible speed an
   * [Algorithms Unlocked_(Cormen, T.H.)](https://mitpress.mit.edu/books/algorithms-unlocked) [Book]
 
 - Programming Languages
-  * [Short intro to Lambda Calculus; Computerphile](https://www.youtube.com/watch?v=eis11j_iGMs) [YouTube Clip: 10 mins]
+  * [Short intro to Lambda Calculus; Computerphile](https://www.youtube.com/watch?v=eis11j_iGMs) [YouTube Clip: 12 mins]
   * [Concepts in Programming Languages](https://www.cambridge.org/core/books/concepts-in-programming-languages/1C05841AB47B49D12C7FC48D1022F11E) [Book]
